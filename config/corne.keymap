@@ -37,7 +37,7 @@
 
             bindings = <
 &kp ESCAPE        &kp AT_SIGN  &kp AMPERSAND    &kp UP_ARROW    &kp LEFT_BRACKET  &kp LEFT_BRACE          &kp RIGHT_BRACE        &kp RIGHT_BRACKET  &kp UP_ARROW  &kp PIPE    &kp GRAVE  &kp BSPC
-&kp LEFT_SHIFT    &kp HASH     &kp LEFT_ARROW   &kp DOWN_ARROW  &kp RIGHT         &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp LEFT           &kp DOWN      &kp RIGHT   &kt SQT    &kp RIGHT_SHIFT
+&kp LEFT_SHIFT    &kp HASH     &kp LEFT_ARROW   &kp DOWN_ARROW  &kp RIGHT         &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp LEFT           &kp DOWN      &kp RIGHT   &kp SQT    &kp RIGHT_SHIFT
 &kp LEFT_CONTROL  &kp DOLLAR   &kp EXCLAMATION  &kp COLON       &kp EQUAL         &kp LESS_THAN           &kp GREATER_THAN       &kp QUESTION       &kp COMMA     &kp PERIOD  &trans     &mo 2
                                                 &kp LGUI        &mo 1             &kp TAB                 &kp RET                &mo 3              &kp RALT
             >;
